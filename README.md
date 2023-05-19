@@ -3,4 +3,7 @@
 - Mon premier site
 Cliquez ici pour afficher le [Portfolio](https://ivanetch.github.io/Modele_de_portfolio/).
 
-#assets/img/profile.png
+![BRUCE WAYNE](https://github.com/IvaneTch/Modele_de_portfolio/blob/main/assets/img/profile.png)
+
+
+
